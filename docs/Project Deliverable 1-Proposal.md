@@ -4,14 +4,13 @@
 Team: Manish Walia, Priyanka Karia, Shyam Mohan
 
   - Who are your customers?
-	Individuals who are seeking for better job opportunities.
-	Recruiters and employers who are looking to hire employees. 
+	- Individuals who are seeking for better job opportunities.
+	- Recruiters and employers who are looking to hire employees. 
 
  - What are their needs? 
-
-For jobseekers: 
-To identify the latest job trends.
-To become more aware of skills associated with particular job roles. 
+   - For jobseekers: 
+     - To identify the latest job trends.
+     - To become more aware of skills associated with particular job roles. 
 
 For recruiters/employers:
 Profiling of jobs seekers based on current job vacancies in their organization.
