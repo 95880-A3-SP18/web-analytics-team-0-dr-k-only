@@ -5,7 +5,7 @@ Team: Manish Walia, Priyanka Karia, Shyam Mohan
 
 - Who are your customers?
   - Individuals who are seeking better job opportunities.
-  - Recruiters and employers who are looking to hire employees. 
+  - Recruiters and employers who are looking to hire employees with a specific skill set. 
 
 - What are their needs? 
   - For jobseekers: 
@@ -30,11 +30,11 @@ Team: Manish Walia, Priyanka Karia, Shyam Mohan
    culture to understand the work-life balance vs salary tradeoff of an employer.
 
 - Where are you going to pull the data from?
-From multiple job portal sites such as 
-- Indeed.com
-- Monster.com
-- LinkedIn.com (API)
-- Glassdoor.com
+  From multiple job portal sites such as 
+ - Indeed.com
+ - Monster.com
+ - LinkedIn.com (API)
+ - Glassdoor.com
 
 
 
