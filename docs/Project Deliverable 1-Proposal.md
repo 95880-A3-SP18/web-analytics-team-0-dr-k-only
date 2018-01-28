@@ -30,11 +30,11 @@ Team: Manish Walia, Priyanka Karia, Shyam Mohan
    culture to understand the work-life balance vs salary tradeoff of an employer.
 
 - Where are you going to pull the data from?
-  From multiple job portal sites such as 
- - Indeed.com
- - Monster.com
- - LinkedIn.com (API)
- - Glassdoor.com
+   - From multiple job portal sites such as 
+      - Indeed.com
+     - Monster.com
+     - LinkedIn.com (API)
+     - Glassdoor.com
 
 
 
