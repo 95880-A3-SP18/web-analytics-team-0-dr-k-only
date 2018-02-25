@@ -5,19 +5,14 @@ Team: Manish Walia, Priyanka Karia, Shyam Mohan
 
 - Who are your customers?
   - Individuals who are seeking better job opportunities.
-  - Recruiters and employers who are looking to hire employees with a specific skill set. 
-
+ 
 - What are their needs? 
   - For jobseekers: 
      - To identify the latest job trends.
      - To become more aware of skills associated with particular job roles. 
 
-  - For recruiters/employers:
-     - Profiling of jobs seekers based on current job vacancies in their organization.
-     - To perform sentiment analyzes of their organization and their competitors.
-
  - What specific problem(s) will you solve?
-   - A platform that aggregates job listings from multiple job portals which will make the job search and recruitment process 
+   - A platform that aggregates job listings from multiple job portals which will make the job search process 
      simpler and less time consuming.
    - Job seekers require a web analytic dashboard which will provide them insights of the top skills, tools and location for a 
    particular role he/she is interested in.
@@ -31,8 +26,7 @@ Team: Manish Walia, Priyanka Karia, Shyam Mohan
 
 - Where are you going to pull the data from?
    - From multiple job portal sites such as 
-      - Indeed.com
-     - Monster.com
+     - Indeed.com
      - LinkedIn.com (API)
      - Glassdoor.com
 
